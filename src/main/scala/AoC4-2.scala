@@ -2,7 +2,7 @@ import scala.io.Source
 import scala.util.matching.Regex
 import scala.collection.mutable.ArrayBuffer
 
-object Main {
+object AoC4p2 {
 
   def main(args: Array[String]): Unit = {
     val inputFileName = "src/main/scala/myfile.txt"
